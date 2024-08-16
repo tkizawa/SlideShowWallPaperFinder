@@ -1,0 +1,2 @@
+# SlideShowWallPaperFinder
+Windowsのスライドショーの現在表示している壁紙ファイルを見つけて表示するスクリプトです。
